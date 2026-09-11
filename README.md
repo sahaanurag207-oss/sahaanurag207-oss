@@ -74,7 +74,7 @@ B.Tech Information Technology student combining rigorous algorithmic foundations
 
 | LeetCode Activity | Codeforces & Verification |
 | :---: | :---: |
-| <a href="https://leetcode.com/u/sahaanurag456/"><img src="https://leetcard.jacoblin.cool/sahaanurag456?theme=dark&font=Inter&ext=activity" alt="LeetCode Card" width="370" /></a> | <br/><a href="https://codeforces.com/profile/sahaanurag207"><img src="https://img.shields.io/badge/Codeforces-sahaanurag207%20(1185)-1877F2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a><br/><br/><a href="https://leetcode.com/u/sahaanurag456/"><img src="https://img.shields.io/badge/LeetCode-1490%20Rating%20(200+%20Solved)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Status" /></a> |
+| <a href="https://leetcode.com/u/sahaanurag456/"><img src="https://leetcard.jacoblin.cool/sahaanurag456?theme=dark&font=Inter&ext=activity" alt="LeetCode Card" width="370" /></a> | <br/><a href="https://codeforces.com/profile/sahaanurag207"><img src="https://img.shields.io/badge/Codeforces-sahaanurag207%20(962)-1877F2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a><br/><br/><a href="https://leetcode.com/u/sahaanurag456/"><img src="https://img.shields.io/badge/LeetCode-1490%20Rating%20(200+%20Solved)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Status" /></a> |
 
 </div>
 
