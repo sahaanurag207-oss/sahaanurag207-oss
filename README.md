@@ -79,21 +79,3 @@ B.Tech Information Technology student combining rigorous algorithmic foundations
 </div>
 
 ---
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahaanurag207-oss&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7dcfff&include_all_commits=true&count_private=true" height="150" alt="GitHub Overview" />
-  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=sahaanurag207-oss&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=7dcfff" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaanurag207-oss&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&hide=jupyter%20notebook" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaanurag207-oss&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</p>
-
----
-
-<div align="center">
-  <sub>Open to software engineering roles, security research collaborations, and open-source contributions.</sub>
-</div>
