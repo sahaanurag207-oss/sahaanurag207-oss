@@ -2,7 +2,7 @@
 
 # Anurag Saha
 **Software Developer &middot; Information Technology Undergraduate**  
-*Jalpaiguri Government Engineering College (Current SGPA: 9.00)*[cite: 1]
+*Jalpaiguri Government Engineering College (Current SGPA: 9.50)*[cite: 1]
 
 [![GitHub](https://img.shields.io/badge/GitHub-sahaanurag207--oss-181717?style=flat&logo=github&logoColor=white)](https://github.com/sahaanurag207-oss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag_Saha-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
