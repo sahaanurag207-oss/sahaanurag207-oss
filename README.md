@@ -56,7 +56,7 @@ B.Tech Information Technology student combining rigorous algorithmic foundations
 ### 🚀 Featured Engineering
 
 #### 🎬 **Movie Search & Discovery Engine** | `React` &middot; `Tailwind CSS` &middot; `OMDB API`
-* Engineered a responsive movie discovery portal with real-time, debounced TMDB API integration[cite: 1].
+* Engineered a responsive movie discovery portal with real-time, debounced OMDB API integration[cite: 1].
 * Implemented skeleton loading states, seamless pagination, dynamic metadata views, and `localStorage`-backed watchlist caching[cite: 1].
 
 #### 🏖️ **Sand Sight (Smart India Hackathon)** | `HTML5` &middot; `CSS3` &middot; `JavaScript`
